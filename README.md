@@ -7,6 +7,9 @@
 - Listar estidiant_spec.js
 - Actualizar estidiant_spec.js
 - Eliminar estidiant_spec.js
+- Registra pago estidiant_spec.js
+- Historia pago estidiant_spec.js
+- Eliminar pago estidiant_spec.js
 - Cypress.json 
 - README.md
 
