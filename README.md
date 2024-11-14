@@ -16,9 +16,12 @@
 - npm 
 
 ### Instricciones
-```bash npm install
-```bash npx cypress open
-```bash npx cypress run
+```bash 
+    npm install ```
+```bash 
+    npx cypress open ```
+```bash 
+    npx cypress run ```
 
 # Prueba de cypress
 ## Crear Estudiantes
